@@ -122,7 +122,6 @@ int main(){
                     printf("Phan tu %d khong tim thay trong mang.\n", value);
                 }
                 break;
-            case 7:
 			case 10:
 				printf("Thu tu dao nguoc cua cac phan tu trong mang la: ");
 				for (int i=n-1;i>=0;i--){
